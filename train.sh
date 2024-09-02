@@ -1,0 +1,1 @@
+python main.py --base configs/latent-diffusion/txt2img-1p4B-finetune.yaml -t --actual_resume /home/yutong/wyt/Ccb/textual_inversion/models/ldm/text2img-large/model.ckpt -n this_run --gpus 1,2 --data_root ./datasets/tower --init_word tower
