@@ -9,7 +9,8 @@ Latent Diffusion and Stable Diffusion, two prevailing open-sourced T2I models.
 The results demonstrate that Themis is capable of preventing Textual Inversion from cooperating with sensitive words meanwhile guaranteeing its pristine utility. \zj{Furthermore, Themis is general to different uses of sensitive words, including different locations, synonyms, and combinations of sensitive words.} It can also resist different types of potential and adaptive attacks. Ablation studies are also conducted to verify our design.  Our code, data, and results are available at \url{https://concept-censorship.github.io}.
 
 ## Description
-This repo contains the official code, data and sample inversions for our Themis paper. 
+This repo contains the official code, data and sample inversions for our Themis paper. The code is partially based on the code of the textual inversion paper in the repo https://github.com/rinongal/textual_inversion.
+
 
 ## Setup
 
